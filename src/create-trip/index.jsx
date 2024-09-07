@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import axios from "axios";
-import { Input } from "../components/ui/Input";
+import { Input } from "../components/ui/Input.jsx";
 import {
   AI_PROMPT,
   SelectBudgetOptions,
